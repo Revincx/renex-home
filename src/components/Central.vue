@@ -1,5 +1,5 @@
 <template>
-  <div class="central">
+  <div class="central fade-in-slide-top">
     <p>renex.me</p>
     <p>The Next Revincx Site</p>
   </div>
